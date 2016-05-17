@@ -10,7 +10,7 @@ public class Employee {
 	}
 	
 	
-	public void newMethods2(){
+	public void newMethods2() {
 		System.out.println("Simple method  2");
 		
 	}
